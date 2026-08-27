@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 100" fill="none">
+  <defs>
+    <linearGradient id="hubOrangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C" />
+      <stop offset="100%" stop-color="#EA580C" />
+    </linearGradient>
+  </defs>
+  
+  <!-- "compor" in negative (white for dark backgrounds) -->
+  <text x="0" y="74" font-family="system-ui, -apple-system, 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="74" fill="#FFFFFF" letter-spacing="-2px">compor</text>
+  
+  <!-- 3 Orange Dots Brand Icon -->
+  <circle cx="316" cy="18" r="9" fill="url(#hubOrangeGrad)" />
+  <circle cx="344" cy="18" r="9" fill="url(#hubOrangeGrad)" />
+  <circle cx="330" cy="38" r="9" fill="url(#hubOrangeGrad)" />
+  
+  <!-- "HUB" in vibrant orange -->
+  <text x="368" y="74" font-family="system-ui, -apple-system, 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="74" fill="url(#hubOrangeGrad)" letter-spacing="-0.5px">HUB</text>
+</svg>

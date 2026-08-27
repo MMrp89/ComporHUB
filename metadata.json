@@ -1,0 +1,8 @@
+{
+  "name": "Compor HUB",
+  "description": "Portal de Cursos e Central de Download de Materiais (PDFs, Planilhas, Modelos e Checklists) para Gestão de Tráfego Pago e Performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
